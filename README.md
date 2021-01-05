@@ -2,9 +2,12 @@
 ![](img/logo.png)
 
 **Course Date:**
-**Name:** Ansari Mohammed Ali Nasim
-**Surname:** Yiğit  
-**Email:** elif89876@gmail.com  
+
+**Name:** Ansari Mohammed Ali
+
+**Surname:** Nasim  
+
+**Email:** ansar326629@gmail.com  
 
 
 ## Project Name
