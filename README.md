@@ -11,12 +11,22 @@
 
 
 ## Project Name
-Description...
+Classifying different quality of wines using Machine Learning Algorithms.
 
 ## Requirements
 Some python libraries
 
----
+Numpy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Sklearn
+
+Xgboost
 
 ### Certification
 ![](img/certificate_ex.png)
